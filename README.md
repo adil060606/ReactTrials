@@ -1,2 +1,0 @@
-# ReactTrials
-Created with CodeSandbox
